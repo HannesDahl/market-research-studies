@@ -1,2 +1,2 @@
 # market-research-studies
-Quantitative market research studies, probabilistic trading analysis, and systematic market behavior exploration.
+Research-driven studies on intraday market behavior, momentum, continuation/reversal dynamics, and probabilistic trading frameworks.
