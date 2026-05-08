@@ -25,3 +25,7 @@ Analyze continuation and reversal behavior after consecutive same-colored 5-minu
 
 ## Outputs
 Interactive HTML outputs are available in the outputs folder.
+
+## Dataset
+- QQQ 5-minute historical data
+- Used as a proxy for Nasdaq intraday behavior due to accessible high-quality historical data
